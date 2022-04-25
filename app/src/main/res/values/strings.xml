@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab05</string>
+    <string name="default_vals">onCreate: %1$s \nonStart: %2$s \nonResume: %3$s \nonPause: %4$s \nonStop: %5$s \nonRestart: %6$s \nonDestroy: %7$s</string>
+
+</resources>
